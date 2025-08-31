@@ -24,14 +24,14 @@
   },
   "topbarLinks": [{
     "name": "Home",
-    "url": "https://clevercall.com"
+    "url": "https://clevercallai.com"
   }, {
     "name": "Support",
-    "url": "https://clevercall.com/contact"
+    "url": "https://clevercallai.com/contact"
   }],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://app.clevercall.com"
+    "url": "https://app.clevercallai.com"
   },
   "anchors": [{
     "name": "No-Code Automation",
@@ -199,7 +199,7 @@
     "linkedin": "https://www.linkedin.com/company/clevercall-ai/-ai"
   },
   "api": {
-    "baseUrl": "https://app.clevercall.com/api/",
+    "baseUrl": "https://app.clevercallai.com/api/",
     "auth": {
       "method": "bearer"
     }
