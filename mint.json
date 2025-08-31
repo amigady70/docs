@@ -176,17 +176,9 @@
         "automation-platform/calls-related/sms-capabilities"
       ]
     },
-    {
-      "group": "Tutorials",
-      "pages": [
-        "automation-platform/tutorials/outbound-form-call",
-        "automation-platform/tutorials/inbound-context-injection"
 
-      ]
-    }
-  ],
   "footerSocials": {
-    "linkedin": "https://www.linkedin.com/company/clevercall-ai/-ai"
+    "linkedin": "https://www.linkedin.com/company/clevercall-ai/"
   },
   "api": {
     "baseUrl": "https://app.clevercallai.com/api/",
