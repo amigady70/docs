@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "CleverCalls",
+  "name": "clevercall",
   "logo": {
     "dark": "/resources/logo/dark.png",
     "light": "/resources/logo/light.png"
@@ -24,14 +24,14 @@
   },
   "topbarLinks": [{
     "name": "Home",
-    "url": "https://CleverCalls.ai"
+    "url": "https://clevercall.com"
   }, {
     "name": "Support",
-    "url": "https://CleverCalls.ai/contact"
+    "url": "https://clevercall.com/contact"
   }],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://app.CleverCalls.ai"
+    "url": "https://app.clevercall.com"
   },
   "anchors": [{
     "name": "No-Code Automation",
@@ -52,7 +52,7 @@
   "navigation": [{
       "group": "Introduction",
       "pages": [
-        "introduction/what-is-CleverCalls",
+        "introduction/what-is-clevercall",
         "introduction/how-it-works",
         "introduction/key-terminology"
       ]
@@ -181,7 +181,7 @@
     {
       "group": "Calls Related",
       "pages": [
-        "automation-platform/calls-related/CleverCalls-tool",
+        "automation-platform/calls-related/clevercall-tool",
         "automation-platform/calls-related/common-integrations",
         "automation-platform/calls-related/sms-capabilities"
       ]
@@ -196,10 +196,10 @@
     }
   ],
   "footerSocials": {
-    "linkedin": "https://www.linkedin.com/company/CleverCalls-ai"
+    "linkedin": "https://www.linkedin.com/company/clevercall-ai/-ai"
   },
   "api": {
-    "baseUrl": "https://app.CleverCalls.ai/api/",
+    "baseUrl": "https://app.clevercall.com/api/",
     "auth": {
       "method": "bearer"
     }
