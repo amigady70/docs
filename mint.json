@@ -22,31 +22,30 @@
   "sidebar": {
     "items": "card"
   },
-  "topbarLinks": [{
-    "name": "Home",
-    "url": "https://clevercallai.com"
-  }, {
-    "name": "Support",
-    "url": "https://clevercallai.com/contact"
-  }],
+  "topbarLinks": [
+    { "name": "Home", "url": "https://clevercallai.com" },
+    { "name": "Support", "url": "https://clevercallai.com/contact" }
+  ],
   "topbarCtaButton": {
     "name": "Dashboard",
     "url": "https://app.clevercallai.com"
   },
-  "anchors": [{
-    "name": "No-Code Automation",
-    "icon": "wand-magic-sparkles",
-    "color": "#6c63ff",
-    "url": "automation-platform"
-  }, 
-  
-   {
-    "name": "API Reference",
-    "icon": "code",
-    "color": "#1c51fc",
-    "url": "api-reference"
-  }],
-  "navigation": [{
+  "anchors": [
+    {
+      "name": "No-Code Automation",
+      "icon": "wand-magic-sparkles",
+      "color": "#6c63ff",
+      "url": "automation-platform"
+    },
+    {
+      "name": "API Reference",
+      "icon": "code",
+      "color": "#1c51fc",
+      "url": "api-reference"
+    }
+  ],
+  "navigation": [
+    {
       "group": "Introduction",
       "pages": [
         "introduction/what-is-clevercall",
@@ -137,7 +136,6 @@
         "provisioning/managing-numbers"
       ]
     },
- 
     {
       "group": "Troubleshooting & FAQs",
       "pages": [
@@ -175,15 +173,13 @@
         "automation-platform/calls-related/common-integrations",
         "automation-platform/calls-related/sms-capabilities"
       ]
-    },
-
+    }
+  ],
   "footerSocials": {
     "linkedin": "https://www.linkedin.com/company/clevercall-ai/"
   },
   "api": {
     "baseUrl": "https://app.clevercallai.com/api/",
-    "auth": {
-      "method": "bearer"
-    }
+    "auth": { "method": "bearer" }
   }
 }
